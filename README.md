@@ -1,10 +1,5 @@
 <h2 align="left">Hello World 👋! My name is Dhayane Rocha, 23 years old, a Full Stack developer from Brazil, passionate about technology and programming.</h2>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhayane.dhayane&"  />
-</div>
 
 ###
 
